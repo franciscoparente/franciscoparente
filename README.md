@@ -2,7 +2,7 @@
 
 # echo "work"
 
-	🖥 Go, Java, Kotlin and Python. 
+	🖥 Go, Java, Python and Kotlin. 
 	 
 # echo "❤️"
 	🦾 Algorithms
